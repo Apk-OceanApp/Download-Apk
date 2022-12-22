@@ -6,11 +6,11 @@ Sistema para el reconocimiento de las especies en la pesca acompañante de cerco
 Seguir las siguientes indicaciones en requerimientos e instalación del applicativo.
 [clik aquí para descargar la Apk ](https://drive.google.com/file/d/1J6W4q__D7IbI5qWxVK3JsuYeXKFP_Xba/view?usp=share_link).
 
-## 5.1 Requerimientos:
+## 1.1 Requerimientos:
 
 Los requerimientos mínimos para que la aplicación OCEAN-APP funcione correctamente, son los siguientes:
 
-1) Sistema operativo Android (11.0 o mayor).
+1) Sistema operativo Android (11.0).
 2) Procesador: Snapdragon 870.
 3) Memoria RAM: 8 GB como mínimo.
 4)Almacenamiento: 128 GB como mínimo.
@@ -21,7 +21,7 @@ Los requerimientos mínimos para que la aplicación OCEAN-APP funcione correctam
 9)Batería: 5000 mAh, Carga rápida 20W
 Es preciso seleccionar como lenguaje predeterminado del teléfono móvil: Español (Estados Unidos).
 
-## 5.2 Instalación:
+## 1.2 Instalación:
 
 Una vez que se descarga la aplicación en el teléfono, la instalación de la misma se realiza de manera automática. Una vez que la aplicación se ha instalado correctamente es preciso ubicar el ícono ejecutable de la aplicación descargada, para asegurarse que se encuentra instalada correctamente
 (como se muestra en la Figura 1).Para hacer uso de la aplicación OCEAN-APP, sólo es necesario tocar el icono de la aplicación para abrirla y empezar a trabajar con ella.
